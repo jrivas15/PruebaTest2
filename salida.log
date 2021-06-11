@@ -1,0 +1,34 @@
+July 31 00:26:45 mycomputername CRON[83063]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 00:37:38 mycomputername dhcpclient[87602]: INFO Googling the answer
+July 31 01:07:17 mycomputername system[78132]: INFO Packets sent successfully
+July 31 01:24:05 mycomputername utility[14905]: INFO Healthy resource usage
+July 31 01:42:02 mycomputername jam_tag=psim[27947]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 01:45:14 mycomputername cacheclient[28721]: INFO Googling the answer
+July 31 02:45:39 mycomputername utility[57387]: INFO Access permitted
+July 31 03:23:16 mycomputername cacheclient[57185]: INFO Checking process [16121]
+July 31 03:28:52 mycomputername CRON[55441]: INFO Loading...
+July 31 03:38:24 mycomputername CRON[92141]: INFO Access permitted
+July 31 03:42:45 mycomputername utility[53726]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 04:45:37 mycomputername CRON[78322]: INFO Checking process [16121]
+July 31 05:18:19 mycomputername kernel[59870]: INFO Starting sync
+July 31 05:36:31 mycomputername utility[15156]: INFO Packets sent successfully
+July 31 07:01:16 mycomputername system[39619]: INFO Plenty of disk space left
+July 31 07:08:10 mycomputername cacheclient[17912]: INFO Generating Logs
+July 31 07:34:37 mycomputername process[22428]: INFO Failed to start process[85253]
+July 31 07:35:27 mycomputername jam_tag=psim[96969]: INFO Loading...
+July 31 07:46:27 mycomputername jam_tag=psim[21363]: INFO Packets sent successfully
+July 31 08:02:17 mycomputername kernel[84055]: INFO Checking process [16121]
+July 31 08:33:24 mycomputername system[55880]: INFO Defragmenting hard drive
+July 31 08:49:55 mycomputername kernel[88866]: INFO Starting sync
+July 31 13:08:06 mycomputername cacheclient[32689]: INFO Loading...
+July 31 14:44:34 mycomputername kernel[34400]: INFO Successfully connected
+July 31 15:21:55 mycomputername CRON[38897]: INFO Failed to start process[85253]
+July 31 15:45:53 mycomputername jam_tag=psim[18544]: INFO Hello world
+July 31 16:02:05 mycomputername cacheclient[80348]: INFO Starting sync
+July 31 16:30:59 mycomputername updater[61327]: INFO Starting sync
+July 31 16:39:10 mycomputername jam_tag=psim[76787]: INFO Checking process [16121]
+July 31 18:51:46 mycomputername cacheclient[57597]: INFO Access permitted
+July 31 19:51:07 mycomputername NetworkManager[38455]: INFO Access permitted
+July 31 20:05:36 mycomputername updater[23489]: INFO Healthy resource usage
+July 31 22:42:51 mycomputername NetworkManager[28895]: INFO I'm sorry Dave. I'm afraid I can't do that
+July 31 23:28:49 mycomputername utility[40452]: INFO Checking process [16121]
